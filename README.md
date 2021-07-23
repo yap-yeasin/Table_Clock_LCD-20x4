@@ -1,4 +1,4 @@
-# TableClock with LCD-20x4 
+# TableClock with LCD-20x4 (Time Format --> 12 hour)
 ## Component Used
   0| Arduino Pro mini. <br>
   1| 20x4 LCD Display. <br>
